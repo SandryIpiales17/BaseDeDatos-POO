@@ -1,0 +1,322 @@
+30-Mar-2024 22:56:31.578 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.87
+30-Mar-2024 22:56:31.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 11 2024 10:12:34 UTC
+30-Mar-2024 22:56:31.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.87.0
+30-Mar-2024 22:56:31.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+30-Mar-2024 22:56:31.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+30-Mar-2024 22:56:31.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+30-Mar-2024 22:56:31.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+30-Mar-2024 22:56:31.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.1+12-LTS-29
+30-Mar-2024 22:56:31.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+30-Mar-2024 22:56:31.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 22:56:31.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 22:56:31.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Mar-2024 22:56:31.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+30-Mar-2024 22:56:31.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+30-Mar-2024 22:56:31.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Mar-2024 22:56:31.591 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Mar-2024 22:56:31.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\conf\logging.properties
+30-Mar-2024 22:56:31.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2024 22:56:31.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2024 22:56:31.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2024 22:56:31.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+30-Mar-2024 22:56:31.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 22:56:31.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 22:56:31.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\temp
+30-Mar-2024 22:56:31.605 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.0] con la versión APR [1.7.4].
+30-Mar-2024 22:56:31.605 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+30-Mar-2024 22:56:31.605 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+30-Mar-2024 22:56:31.611 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+30-Mar-2024 22:56:31.893 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+30-Mar-2024 22:56:31.912 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [489] milliseconds
+30-Mar-2024 22:56:31.952 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+30-Mar-2024 22:56:31.952 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+30-Mar-2024 22:56:31.969 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] de la aplicación web
+30-Mar-2024 22:56:32.319 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] has finished in [348] ms
+30-Mar-2024 22:56:32.320 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] de la aplicación web
+30-Mar-2024 22:56:32.393 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] has finished in [72] ms
+30-Mar-2024 22:56:32.393 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] de la aplicación web
+30-Mar-2024 22:56:32.908 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] has finished in [514] ms
+30-Mar-2024 22:56:32.908 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] de la aplicación web
+30-Mar-2024 22:56:32.982 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] has finished in [74] ms
+30-Mar-2024 22:56:32.983 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] de la aplicación web
+30-Mar-2024 22:56:33.023 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] has finished in [39] ms
+30-Mar-2024 22:56:33.024 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] de la aplicación web
+30-Mar-2024 22:56:33.046 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] has finished in [23] ms
+30-Mar-2024 22:56:33.052 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 22:56:33.071 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1159] milliseconds
+30-Mar-2024 22:56:45.116 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 22:56:45.120 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+30-Mar-2024 22:56:45.139 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 22:56:45.157 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 22:57:29.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.87
+30-Mar-2024 22:57:29.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 11 2024 10:12:34 UTC
+30-Mar-2024 22:57:29.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.87.0
+30-Mar-2024 22:57:29.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+30-Mar-2024 22:57:29.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+30-Mar-2024 22:57:29.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+30-Mar-2024 22:57:29.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+30-Mar-2024 22:57:29.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.1+12-LTS-29
+30-Mar-2024 22:57:29.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+30-Mar-2024 22:57:29.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 22:57:29.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 22:57:29.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Mar-2024 22:57:29.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+30-Mar-2024 22:57:29.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+30-Mar-2024 22:57:29.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Mar-2024 22:57:29.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Mar-2024 22:57:29.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\conf\logging.properties
+30-Mar-2024 22:57:29.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2024 22:57:29.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2024 22:57:29.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2024 22:57:29.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+30-Mar-2024 22:57:29.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 22:57:29.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 22:57:29.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\temp
+30-Mar-2024 22:57:29.393 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.0] con la versión APR [1.7.4].
+30-Mar-2024 22:57:29.393 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+30-Mar-2024 22:57:29.393 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+30-Mar-2024 22:57:29.398 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+30-Mar-2024 22:57:29.652 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+30-Mar-2024 22:57:29.670 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [451] milliseconds
+30-Mar-2024 22:57:29.713 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+30-Mar-2024 22:57:29.714 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+30-Mar-2024 22:57:29.731 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] de la aplicación web
+30-Mar-2024 22:57:29.749 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb] was found with a last modified time that did not match the associated WAR. It will be deleted.
+30-Mar-2024 22:57:30.846 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+30-Mar-2024 22:57:31.882 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] has finished in [2.151] ms
+30-Mar-2024 22:57:31.883 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] de la aplicación web
+30-Mar-2024 22:57:31.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] has finished in [34] ms
+30-Mar-2024 22:57:31.918 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] de la aplicación web
+30-Mar-2024 22:57:32.323 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] has finished in [405] ms
+30-Mar-2024 22:57:32.323 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] de la aplicación web
+30-Mar-2024 22:57:32.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] has finished in [40] ms
+30-Mar-2024 22:57:32.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] de la aplicación web
+30-Mar-2024 22:57:32.402 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] has finished in [39] ms
+30-Mar-2024 22:57:32.402 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] de la aplicación web
+30-Mar-2024 22:57:32.426 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] has finished in [24] ms
+30-Mar-2024 22:57:32.433 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 22:57:32.489 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2816] milliseconds
+30-Mar-2024 23:00:52.797 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/ejemploweb]
+30-Mar-2024 23:00:52.830 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] de la aplicación web
+30-Mar-2024 23:00:53.554 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+30-Mar-2024 23:00:53.666 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:00:53.672 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+30-Mar-2024 23:00:54.341 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] has finished in [1.510] ms
+30-Mar-2024 23:00:54.355 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:00:54.367 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:00:57.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.87
+30-Mar-2024 23:00:57.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 11 2024 10:12:34 UTC
+30-Mar-2024 23:00:57.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.87.0
+30-Mar-2024 23:00:57.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+30-Mar-2024 23:00:57.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+30-Mar-2024 23:00:57.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+30-Mar-2024 23:00:57.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+30-Mar-2024 23:00:57.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.1+12-LTS-29
+30-Mar-2024 23:00:57.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+30-Mar-2024 23:00:57.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:00:57.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:00:57.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Mar-2024 23:00:57.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+30-Mar-2024 23:00:57.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+30-Mar-2024 23:00:57.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Mar-2024 23:00:57.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Mar-2024 23:00:57.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\conf\logging.properties
+30-Mar-2024 23:00:57.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2024 23:00:57.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2024 23:00:57.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2024 23:00:57.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+30-Mar-2024 23:00:57.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:00:57.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:00:57.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\temp
+30-Mar-2024 23:00:57.259 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.0] con la versión APR [1.7.4].
+30-Mar-2024 23:00:57.259 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+30-Mar-2024 23:00:57.259 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+30-Mar-2024 23:00:57.264 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+30-Mar-2024 23:00:57.503 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+30-Mar-2024 23:00:57.521 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [434] milliseconds
+30-Mar-2024 23:00:57.557 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+30-Mar-2024 23:00:57.558 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+30-Mar-2024 23:00:57.573 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] de la aplicación web
+30-Mar-2024 23:00:58.393 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+30-Mar-2024 23:00:59.323 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] has finished in [1.751] ms
+30-Mar-2024 23:00:59.325 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] de la aplicación web
+30-Mar-2024 23:00:59.359 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] has finished in [34] ms
+30-Mar-2024 23:00:59.360 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] de la aplicación web
+30-Mar-2024 23:00:59.744 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] has finished in [384] ms
+30-Mar-2024 23:00:59.744 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] de la aplicación web
+30-Mar-2024 23:00:59.783 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] has finished in [38] ms
+30-Mar-2024 23:00:59.783 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] de la aplicación web
+30-Mar-2024 23:00:59.825 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] has finished in [41] ms
+30-Mar-2024 23:00:59.825 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] de la aplicación web
+30-Mar-2024 23:00:59.847 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] has finished in [22] ms
+30-Mar-2024 23:00:59.856 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:00:59.875 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2352] milliseconds
+30-Mar-2024 23:25:35.735 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:25:35.741 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+30-Mar-2024 23:25:35.766 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:25:35.774 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:45:53.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.87
+30-Mar-2024 23:45:53.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 11 2024 10:12:34 UTC
+30-Mar-2024 23:45:53.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.87.0
+30-Mar-2024 23:45:53.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+30-Mar-2024 23:45:53.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+30-Mar-2024 23:45:53.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+30-Mar-2024 23:45:53.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+30-Mar-2024 23:45:53.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.1+12-LTS-29
+30-Mar-2024 23:45:53.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+30-Mar-2024 23:45:53.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:45:53.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:45:53.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Mar-2024 23:45:53.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+30-Mar-2024 23:45:53.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+30-Mar-2024 23:45:53.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Mar-2024 23:45:53.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Mar-2024 23:45:53.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\conf\logging.properties
+30-Mar-2024 23:45:53.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2024 23:45:53.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2024 23:45:53.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2024 23:45:53.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+30-Mar-2024 23:45:53.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:45:53.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:45:53.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\temp
+30-Mar-2024 23:45:53.293 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.0] con la versión APR [1.7.4].
+30-Mar-2024 23:45:53.293 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+30-Mar-2024 23:45:53.293 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+30-Mar-2024 23:45:53.312 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+30-Mar-2024 23:45:53.596 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+30-Mar-2024 23:45:53.624 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [538] milliseconds
+30-Mar-2024 23:45:53.674 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+30-Mar-2024 23:45:53.674 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+30-Mar-2024 23:45:53.699 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] de la aplicación web
+30-Mar-2024 23:45:53.723 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb] was found with a last modified time that did not match the associated WAR. It will be deleted.
+30-Mar-2024 23:45:54.838 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+30-Mar-2024 23:45:55.983 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] has finished in [2.283] ms
+30-Mar-2024 23:45:55.983 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] de la aplicación web
+30-Mar-2024 23:45:56.023 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] has finished in [40] ms
+30-Mar-2024 23:45:56.024 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] de la aplicación web
+30-Mar-2024 23:45:56.514 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] has finished in [490] ms
+30-Mar-2024 23:45:56.514 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] de la aplicación web
+30-Mar-2024 23:45:56.564 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] has finished in [50] ms
+30-Mar-2024 23:45:56.565 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] de la aplicación web
+30-Mar-2024 23:45:56.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] has finished in [54] ms
+30-Mar-2024 23:45:56.620 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] de la aplicación web
+30-Mar-2024 23:45:56.657 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] has finished in [36] ms
+30-Mar-2024 23:45:56.664 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:45:56.697 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3072] milliseconds
+30-Mar-2024 23:46:27.088 SEVERE [http-nio-8080-exec-1] org.glassfish.jersey.message.internal.WriterInterceptorExecutor$TerminalWriterInterceptor.aroundWriteTo MessageBodyWriter not found for media type=text/plain, type=class com.krakedev.entidades.Cliente, genericType=class com.krakedev.entidades.Cliente.
+30-Mar-2024 23:48:01.123 SEVERE [http-nio-8080-exec-8] org.glassfish.jersey.message.internal.WriterInterceptorExecutor$TerminalWriterInterceptor.aroundWriteTo MessageBodyWriter not found for media type=text/plain, type=class com.krakedev.entidades.Cliente, genericType=class com.krakedev.entidades.Cliente.
+30-Mar-2024 23:56:57.416 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/ejemploweb]
+30-Mar-2024 23:56:57.453 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] de la aplicación web
+30-Mar-2024 23:56:58.246 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+30-Mar-2024 23:56:59.094 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] has finished in [1.641] ms
+30-Mar-2024 23:57:01.229 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:57:01.233 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+30-Mar-2024 23:57:01.248 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:57:01.265 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:57:04.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.87
+30-Mar-2024 23:57:04.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 11 2024 10:12:34 UTC
+30-Mar-2024 23:57:04.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.87.0
+30-Mar-2024 23:57:04.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+30-Mar-2024 23:57:04.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+30-Mar-2024 23:57:04.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+30-Mar-2024 23:57:04.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+30-Mar-2024 23:57:04.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.1+12-LTS-29
+30-Mar-2024 23:57:04.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+30-Mar-2024 23:57:04.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:57:04.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:57:04.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Mar-2024 23:57:04.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+30-Mar-2024 23:57:04.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+30-Mar-2024 23:57:04.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Mar-2024 23:57:04.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Mar-2024 23:57:04.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\conf\logging.properties
+30-Mar-2024 23:57:04.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2024 23:57:04.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2024 23:57:04.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2024 23:57:04.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+30-Mar-2024 23:57:04.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:57:04.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:57:04.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\temp
+30-Mar-2024 23:57:04.919 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.0] con la versión APR [1.7.4].
+30-Mar-2024 23:57:04.919 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+30-Mar-2024 23:57:04.919 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+30-Mar-2024 23:57:04.924 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+30-Mar-2024 23:57:05.230 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+30-Mar-2024 23:57:05.253 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [517] milliseconds
+30-Mar-2024 23:57:05.298 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+30-Mar-2024 23:57:05.298 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+30-Mar-2024 23:57:05.319 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] de la aplicación web
+30-Mar-2024 23:57:06.351 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+30-Mar-2024 23:57:07.409 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] has finished in [2.089] ms
+30-Mar-2024 23:57:07.409 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] de la aplicación web
+30-Mar-2024 23:57:07.446 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] has finished in [37] ms
+30-Mar-2024 23:57:07.446 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] de la aplicación web
+30-Mar-2024 23:57:07.898 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] has finished in [451] ms
+30-Mar-2024 23:57:07.898 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] de la aplicación web
+30-Mar-2024 23:57:07.954 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] has finished in [56] ms
+30-Mar-2024 23:57:07.954 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] de la aplicación web
+30-Mar-2024 23:57:07.999 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] has finished in [44] ms
+30-Mar-2024 23:57:07.999 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] de la aplicación web
+30-Mar-2024 23:57:08.029 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] has finished in [30] ms
+30-Mar-2024 23:57:08.035 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:57:08.057 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2802] milliseconds
+30-Mar-2024 23:57:08.999 SEVERE [http-nio-8080-exec-2] org.glassfish.jersey.message.internal.WriterInterceptorExecutor$TerminalWriterInterceptor.aroundWriteTo MessageBodyWriter not found for media type=application/json, type=class com.krakedev.entidades.Cliente, genericType=class com.krakedev.entidades.Cliente.
+30-Mar-2024 23:57:16.129 SEVERE [http-nio-8080-exec-4] org.glassfish.jersey.message.internal.WriterInterceptorExecutor$TerminalWriterInterceptor.aroundWriteTo MessageBodyWriter not found for media type=application/json, type=class com.krakedev.entidades.Cliente, genericType=class com.krakedev.entidades.Cliente.
+30-Mar-2024 23:59:31.038 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:59:31.041 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+30-Mar-2024 23:59:31.065 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:59:31.077 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:59:35.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.87
+30-Mar-2024 23:59:35.160 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 11 2024 10:12:34 UTC
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.87.0
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.1+12-LTS-29
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:59:35.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\conf\logging.properties
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+30-Mar-2024 23:59:35.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Mar-2024 23:59:35.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+30-Mar-2024 23:59:35.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:59:35.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87
+30-Mar-2024 23:59:35.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\temp
+30-Mar-2024 23:59:35.175 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.0] con la versión APR [1.7.4].
+30-Mar-2024 23:59:35.175 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+30-Mar-2024 23:59:35.175 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+30-Mar-2024 23:59:35.179 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+30-Mar-2024 23:59:35.465 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+30-Mar-2024 23:59:35.490 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [506] milliseconds
+30-Mar-2024 23:59:35.541 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+30-Mar-2024 23:59:35.542 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+30-Mar-2024 23:59:35.563 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] de la aplicación web
+30-Mar-2024 23:59:35.586 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb] was found with a last modified time that did not match the associated WAR. It will be deleted.
+30-Mar-2024 23:59:37.125 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+30-Mar-2024 23:59:38.262 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ejemploweb.war] has finished in [2.698] ms
+30-Mar-2024 23:59:38.262 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] de la aplicación web
+30-Mar-2024 23:59:38.303 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\docs] has finished in [41] ms
+30-Mar-2024 23:59:38.304 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] de la aplicación web
+30-Mar-2024 23:59:38.769 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\examples] has finished in [464] ms
+30-Mar-2024 23:59:38.769 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] de la aplicación web
+30-Mar-2024 23:59:38.814 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\host-manager] has finished in [44] ms
+30-Mar-2024 23:59:38.814 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] de la aplicación web
+30-Mar-2024 23:59:38.856 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\manager] has finished in [41] ms
+30-Mar-2024 23:59:38.856 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] de la aplicación web
+30-Mar-2024 23:59:38.884 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\pao_i\Documents\WorkspaceJava\BaseDeDatos-POO\MODULO 3\apache-tomcat-9.0.87\webapps\ROOT] has finished in [28] ms
+30-Mar-2024 23:59:38.891 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Mar-2024 23:59:38.918 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3426] milliseconds
